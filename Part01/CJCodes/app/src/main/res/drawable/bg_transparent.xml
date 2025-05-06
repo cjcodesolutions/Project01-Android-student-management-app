@@ -1,0 +1,10 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Original background with reduced opacity -->
+    <item>
+        <bitmap android:src="@drawable/bg" android:alpha="0.9"/>
+    </item>
+    <!-- Optional: Dark overlay for better text readability -->
+    <item>
+        <color android:color="#80000000"/> <!-- 50% black overlay -->
+    </item>
+</layer-list>

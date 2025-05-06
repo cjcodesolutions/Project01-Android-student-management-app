@@ -1,0 +1,5 @@
+<resources>
+    <style name="Theme.CJCodes" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Your customizations -->
+    </style>
+</resources>
